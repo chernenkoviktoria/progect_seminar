@@ -1,1 +1,1 @@
-# progect_seminar
+# project_seminar
